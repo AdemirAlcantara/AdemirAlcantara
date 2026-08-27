@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou Ademir de Alcântara 👋
 
-<!--
-**AdemirAlcantara/AdemirAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de desenvolvimento de software, cursando **Bacharelado em Sistemas de Informação (Unoeste)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Java, C, C++, C#, TypeScript, SQL
+- **Frameworks & Bibliotecas:** Spring Boot, Spring Data JPA, Spring Security, JavaFX
+- **Bancos de Dados:** PostgreSQL, MySQL
+
+---
+
+###  📫 Onde me encontrar:
+
+- **E-mail:** ademir.170804@gmail.com
