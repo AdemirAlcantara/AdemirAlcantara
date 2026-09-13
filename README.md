@@ -14,3 +14,4 @@ Estudante de desenvolvimento de software, cursando **Bacharelado em Sistemas de 
 ###  📫 Onde me encontrar:
 
 - **E-mail:** ademir.170804@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/seu-usuario/).**
