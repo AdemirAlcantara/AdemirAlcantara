@@ -1,17 +1,16 @@
 # Olá, sou Ademir de Alcântara 👋
 
-Estudante de desenvolvimento de software, cursando **Bacharelado em Sistemas de Informação (Unoeste)**.  
+Estudante de desenvolvimento de software, cursando **Bacharelado em Sistemas de Informação (Unoeste)**.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Java, C, C++, C#, TypeScript, SQL
-- **Frameworks & Bibliotecas:** Spring Boot, Spring Data JPA, Spring Security, JavaFX
+- **Linguagens & Web:** Java, TypeScript, C, C++, C#, SQL, HTML5, CSS3
+- **Frameworks & Bibliotecas:** Spring Boot, JavaFX, React, Next.js, Bootstrap
 - **Bancos de Dados:** PostgreSQL, MySQL
 
 ---
 
-###  📫 Onde me encontrar:
-
+### 📫 Onde me encontrar:
 - **E-mail:** ademir.170804@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/seu-usuario/).**
+- **[LinkedIn](www.linkedin.com/in/ademir-de-alcântara-souza-carvalho-74686437a)**
