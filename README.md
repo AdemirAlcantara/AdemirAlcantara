@@ -1,13 +1,13 @@
 # Olá, sou Ademir de Alcântara 👋
 
-Estudante de desenvolvimento de software, cursando **Bacharelado em Sistemas de Informação (Unoeste)**.
+Estudante de desenvolvimento de software, cursando **Sistemas de Informação na FIPP (Unoeste)**.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens & Web:** Java, TypeScript, C, C++, C#, SQL, HTML5, CSS3
-- **Frameworks & Bibliotecas:** Spring Boot, JavaFX, React, Next.js, Bootstrap
-- **Bancos de Dados:** PostgreSQL, MySQL
+- **Linguagens & Web:** Javascript/TypeScript, Python, Java, C/C++, C#, HTML5, CSS3
+- **Frameworks & Bibliotecas:** React, Next.js, Express.js, Bootstrap, Flask, Spring Boot, JavaFX
+- **Bancos de Dados:** MongoDB, PostgreSQL, SQLite, Oracle SQL Developer, MySQL
 
 ---
 
