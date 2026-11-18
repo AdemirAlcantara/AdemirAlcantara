@@ -12,5 +12,5 @@ Estudante de desenvolvimento de software, cursando **Sistemas de Informação na
 ---
 
 ### 📫 Onde me encontrar:
-- **E-mail:** ademir.170804@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/ademir-de-alc%C3%A2ntara-souza-carvalho-74686437a)**
+- **E-mail:** ademir.170804@gmail.com / ademiralcantara.profissional@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/ademir-alcantara/)**
